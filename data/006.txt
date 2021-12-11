@@ -1,0 +1,26 @@
+baseline        200
+creative        300     3
+funniest        100     5
+
+= baseline
+Vlodkow
+isonar
+Lagos
+saddykiller
+EslaMx7
+Eugen
+vetal
+coyote
+nntb
+
+= funniest
+vertfromage
+Vlodkow
+isonar
+EslaMx7
+lkskrn
+
+= creative
+Lagos 
+MartinTale 
+steve yu 

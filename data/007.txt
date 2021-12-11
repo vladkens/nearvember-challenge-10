@@ -1,0 +1,46 @@
+baseline        300
+creative        500     3
+helpful         200     3
+
+= baseline
+Vlodkow
+rgbdme
+vertfromage
+steve yu
+Soulwish
+vertfromage
+rgbdme
+Errp
+vetal
+saddykiller
+daothang
+Eugen
+sadliak
+nuggetnchill
+MartinTale
+runningBits
+isonar
+Lagos
+Aiko
+nntb
+lkskrn
+Disp41r
+vadkutsen
+vladkens
+LifeAsWEsKnowIt
+rainil
+Wagih
+EslaMx7
+cristobal
+tranxuanquy.near
+coyote
+
+= creative
+MartinTale
+Disp41r
+sadliak 
+
+= helpful
+lkskrn
+rgbdme
+AJ 

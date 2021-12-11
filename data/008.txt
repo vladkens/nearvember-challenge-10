@@ -1,0 +1,36 @@
+baseline      300
+creative      500   3
+add_candidate 100
+
+= baseline
+vladkens
+Aiko
+steve yu
+vetal
+daothang
+Errp
+saddykiller
+Disp41r
+Eugen
+Vlodkow
+LifeAsWEsKnowIt
+Soulwish
+lkskrn
+MartinTale
+vertfromage
+tranxuanquy.near
+runningBits
+vadkutsen
+isonar
+Wagih
+EslaMx7
+Lagos
+rgbdme
+nntb
+rainil
+sadliak
+
+= creative
+lkskrn
+MartinTale
+vadkutsen

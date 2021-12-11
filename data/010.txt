@@ -1,0 +1,4 @@
+baseline        500     
+creative        1000  5
+helpful         500   3
+popular         500   1
